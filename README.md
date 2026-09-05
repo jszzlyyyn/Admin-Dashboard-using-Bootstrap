@@ -1,5 +1,5 @@
 # Admin Dashboard using Bootstrap
-A simple Admin Dashboard project created using HTML, CSS, JavaScript, Bootstrap, jQuery, and DataTables.
+A simple Admin Dashboard project created using HTML, CSS, JavaScript
 
 ## About the Project
 This project is our school laboratory activity that demonstrates the creation of an Admin Dashboard using Bootstrap and other web development libraries.
